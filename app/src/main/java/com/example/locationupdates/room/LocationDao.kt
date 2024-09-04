@@ -1,4 +1,4 @@
-package com.example.locationupdates
+package com.example.locationupdates.room
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

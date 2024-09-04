@@ -12,6 +12,8 @@ import android.os.Build
 import android.os.IBinder
 import android.os.Looper
 import android.util.Log
+import com.example.locationupdates.room.Location
+import com.example.locationupdates.room.LocationDao
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationCallback
 import com.google.android.gms.location.LocationRequest

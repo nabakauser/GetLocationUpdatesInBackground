@@ -1,4 +1,4 @@
-package com.example.locationupdates
+package com.example.locationupdates.room
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
